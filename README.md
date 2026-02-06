@@ -28,6 +28,14 @@ A complete operating model covering:
 9. CI/CD Pipeline & DevOps
 10. Legacy Code Modernization
 
+### [Training Plan](training_plan.md)
+
+A 6-month rollout plan for Engineering Managers introducing agentic workflows to their teams:
+
+- **Phase 1 (Month 1-2):** Foundations — tool proficiency, prompt engineering, first agentic deliveries
+- **Phase 2 (Month 3-4):** Process integration — redefined SDLC roles, spec templates, quality gates
+- **Phase 3 (Month 5-6):** Scaling — reduced review overhead, parallel sessions, M-shaped contributors
+
 ## Quick Start
 
 1. Read the [Agentic SDLC Guide](agentic_sdlc_guide.md) to understand the workflow
